@@ -5,6 +5,6 @@ public class GitLesson {
         double salary;
 
         age = 40;
-        salary = 25000;
+        salary = 30000;
     }
 }
