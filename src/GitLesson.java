@@ -6,5 +6,8 @@ public class GitLesson {
 
         age = 40;
         salary = 25000;
+
+        System.out.println("age " + age);
+        System.out.println("salary" + salary);
     }
 }
