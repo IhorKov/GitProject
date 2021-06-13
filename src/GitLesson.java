@@ -3,5 +3,11 @@ public class GitLesson {
         String name, address;
         int age;
         double salary;
+
+        name = "Vasiliy";
+        address = "Kharkov";
+
+        System.out.println("name " + name);
+        System.out.println("address" + address);
     }
 }
