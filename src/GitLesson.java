@@ -9,5 +9,8 @@ public class GitLesson {
 
         System.out.println("name " + name);
         System.out.println("address" + address);
+
+        age = 40;
+        salary = 30000;
     }
 }
