@@ -3,5 +3,8 @@ public class GitLesson {
         String name, address;
         int age;
         double salary;
+
+        name = "Vasiliy";
+        address = "kharkov";
     }
 }
