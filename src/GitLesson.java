@@ -5,6 +5,9 @@ public class GitLesson {
         double salary;
 
         name = "Vasiliy";
-        address = "kharkov";
+        address = "Kharkov";
+
+        System.out.println("name " + name);
+        System.out.println("address" + address);
     }
 }
